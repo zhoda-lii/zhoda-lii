@@ -1,7 +1,7 @@
 ### Hi there, I'm Joash 👋
 - 👀 I’m interested in automation and data analytics.
 - 🔭 I’m currently working on my terminal-like portfolio.
-- 🌱 I’m currently learning C# and Java.
+- 🌱 I’m currently learning C#, Java and R.
 - ⚡ Fun fact: I like eating spicy ramen while coding!
 
 
