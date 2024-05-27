@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation and data analytics.
 - 🔭 I’m currently working on my terminal-like portfolio.
 - 🌱 I’m currently learning C# and Java.
-- ⚡ Fun fact: I like spicy ramen.
+- ⚡ Fun fact: I like eating spicy ramen while coding!
 
 
 <!--
