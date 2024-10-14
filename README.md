@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on my terminal-like portfolio.
 - 🌱 I’m currently learning C#, Java and R.
 - ⚡ Fun fact: I like eating spicy ramen while coding!
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zhoda-lii)
 
 <!--
