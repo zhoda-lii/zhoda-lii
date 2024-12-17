@@ -1,6 +1,6 @@
 # 🐥 이조다 • Joash
 
-**`Computer Science Student (Applied Research Intern)`** 
+**`Computer Science Student (Applied Research Intern)`**  
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zhoda-lii)
 
 - 👀 I’m interested in automation and data analytics.
