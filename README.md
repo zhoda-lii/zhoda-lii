@@ -1,13 +1,11 @@
 # 🐥 이조다 • Joash
 
-**`Computer Science Student (Applied Research Intern)`**
+**`Computer Science Student (Applied Research Intern)`** ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zhoda-lii)
 
 - 👀 I’m interested in automation and data analytics.
 - 🔭 I’m currently working on my terminal-like portfolio.
 - 🌱 I’m currently learning C#, Java and UI Automation.
 - ⚡ Fun fact: I like eating spicy ramen while coding!
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zhoda-lii)
 
 #
 
