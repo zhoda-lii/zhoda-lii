@@ -1,7 +1,6 @@
 # 🐥 이조다 • Joash
 
 **`Computer Science Student (Applied Research Intern)`**  
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zhoda-lii)
 
 - 👀 I’m interested in automation and data analytics.
 - 🔭 I’m currently working on my terminal-like portfolio.
@@ -24,7 +23,7 @@
 #
 
 ### 📈 Stats
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zhoda-lii)  
 ![Joash's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoda-lii&show_icons=true&theme=github_dark_dimmed)
 <!--
 **zhoda-lii/zhoda-lii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
