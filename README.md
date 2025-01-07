@@ -3,8 +3,8 @@
 **`Computer Science Student (Applied Research Intern)`**  
 
 - 👀 I’m interested in automation and data analytics.
+- 🌱 I’m currently exploring UiPath.
 - 🔭 I’m currently working on my terminal-like portfolio.
-- 🌱 I’m currently learning C#, Java and UI Automation.
 - ⚡ Fun fact: I like eating spicy ramen while coding!
 
 #
