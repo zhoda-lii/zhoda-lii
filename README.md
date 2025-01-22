@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in automation and data analytics.
 - 🌱 I’m currently exploring UiPath and GraphQL.
-- 🔭 I’m working on my terminal-like portfolio (zhoda-lii.github.io).
+- 🔭 I’m working on my terminal-like portfolio.
 - ⚡ Fun fact: I like spicy ramen and curry udon!
 
 #
