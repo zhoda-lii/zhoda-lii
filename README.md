@@ -1,6 +1,6 @@
 # 🐥 이조다 • Joash
 
-**`Computer Science Student (Applied Research Tech)`**  
+**`Applied Research Technician`**  
 
 - 👀 I’m interested in automation and data analytics.
 - 🌱 I’m currently exploring UiPath and GraphQL.
