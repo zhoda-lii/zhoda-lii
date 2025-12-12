@@ -1,11 +1,11 @@
 # 🐥 이조다 • Joash
 
-**`Applied Research Technician`**  
+**`(Syntax error) developer`**  
 
-- 👀 I’m interested in automation and data analytics.
-- 🌱 I’m currently exploring UiPath and GraphQL.
-- 🔭 I’m working on software acceptance testing using LLMs.
-- ⚡ Random fact: I like spicy ramen and curry udon!
+- 👀 Automation addict who dreams in data dashboards (and nightmares in spreadsheets).
+- 🔭 Building LLM-powered acceptance tests (because manual clicking is for mortals).
+- 🌱 Diving into UiPath and GraphQL like a noob chasing shiny bots.
+- ⚡ Random stuff: Spicy ramen fuels my bugs and curry udon debugs my soul.
 
 #
 
