@@ -4,7 +4,7 @@
 
 - 👀 Automation addict who dreams in data dashboards (and nightmares in spreadsheets).
 - 🔭 Building LLM-powered acceptance tests (because manual clicking is for mortals).
-- 🌱 Diving into UiPath and GraphQL like a noob chasing shiny bots.
+- 🌱 Diving into RPA and UiPath like a noob chasing shiny bots.
 - ⚡ Random stuff: Spicy ramen fuels my bugs and curry udon debugs my soul.
 
 #
